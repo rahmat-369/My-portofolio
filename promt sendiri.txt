@@ -1,0 +1,175 @@
+yg pertama adalah penambahan splash screen dimana seperti splash screen animasi splash screen sebelum masuk.. style nya terminal 
+
+oh iya sebelum itu pastikan jika user masuk slalu mulai dari atas ya.
+
+(card posisi tampilan utama)
+1. pada tampilan awal R_hmt, sebelum itu ada teks animasi ketik "hi, im (dilanjutkan nama besar dibawahnya) lalu dibawahnya 
+# tambah animasi teks berganti style terminal pada "> Technology explorer, vibe coders, dst.." agar terasalebih hidup lalu sebelum teks "mengeksplorasi batas teknologi ...." tambah "saya seorang pelajar MA yang" tambah juga "secara otodidak&mandiri)
+
+# dibawahnya foto gambar/pp.png kotak horizontal sekitar ukuran 16:9. letaknya ditampilkan di "r_hmt//virtual os yg dimana gambar pp.png (yg 16:9) itu juga ditampilkan di card visual os dan card engine jadi ada halaman baru menampilkan gambar tsb tapi utk PP.png ini ditampilkan paling awal. 
+  *lalu utk profil 1:1 panggil di gambar/pp-dev.png tampilkan di profil card visual_os
+  *lalu juga di  card code_enginee itu ada teks animasi ketiknjuga kyk terminal
+
+
+
+2. masuk scrol kebawah di halaman "THE JOURNEY" Akan lebih baik jika scrol animasi hidup muncul satu per satu tanpa harus user klik
+3. kemudian card yg ada tombol bisa geser2, yg berisi penjelasan node 1/2/3dst... itu jangan full inggris. ambil 30% saja intinya jangan full inggris bukan berarti hapus bahasa inggris 
+
+4. masuk ke DIGITAL ECOSYTEM 
+
+ Digital Ecosystem
+- AI Tools: ChatGPT, Claude, Gemini, DeepSeek, Kimi, Qwen.  
+-  GitHub Copilot, Lovable, v0, Devin, Google AI Studio.  
+- : Railway, Supabase, Netlify, vercel, infinty, raiilway
+- : GitHub, Termux, reqable
+(semua menggunakan gambar svg real)
+
+B. Featured Explorations (Proyek)
+- Repo Flow, HD Upscale, Image To Prompt, Analisis Tanaman, Fake loby ml Screenshot Web, Cek Kartu, Indosawit.News v2.  
+Arsip: QuickFake, Soundify, Web Anime. 
+(tambahan fake loby ml https://fake-loby-ml-nine.vercel.app/' module, html canvas. lalu yg ditampilkan utama adalah Analisis tanaman, hd Upscaler, Repoflow, fake loby dst..)
+
+lalu saya ingin saat geser animasi nya halus
+
+C. People Along The Journey
+Daftar 8 individu/kolaborator dengan tautan media sosial/GitHub/WhatsApp (misal: SHADOWNEX, hmmodzvip, iboyCloud).
+
+D. Community Hub
+6 komunitas WhatsApp seperti "COMMUNITY", "Scrape Collection", "Promosi", dll., ditampilkan sebagai kartu interaktif. disini Konsepnya community sebagai card utama lalu dibawahnya anggota community menampilkan anggota grub community tsb (belajar coding, scrape dst..) 
+
+## mutasi lab hanya ada chat dgn Gemini, dan fungsi utamanya adalah menceritakan segala hal ttg saya jika ada user bertanya, entah bertanya project apa aja, siapa saya, tujuan saya, dll intinya fungsi utamanya ttg gw jadi buat database buat ai baca ttg gw beserta system promt nya agar sesuai. jadi tidak ada halaman pembuatan gambar
+
+
+People List disini  di satu halaman ada 3 card di satu halaman, simpel aja profil, nama dan icon terhubung ke sosmed (sesuai icon gambar svg)
+1. **SHADOWNEX**
+   - Image: gambar/Shadow.png
+   - GitHub: github.com/Shadownex293
+   - Telegram: t.me/Shadownex2
+   - WhatsApp Channel: https://whatsapp.com/channel/0029Vb8Lge5FHWq3fTan4V0J
+
+2. **hmmodzvip**
+   - Image: gambar/Hmmodz.png
+   - GitHub: github.com/hmmodzvip
+   - TikTok: @hmmodzvip
+   - Email: serverhmmodz@gmail.com
+
+3. **iboyCloud**
+   - GitHub: github.com/iboycloud
+   - TikTok: @xiao_bayu
+
+4. **reiz_riz**
+   - Image: gambar/Reiz.png
+   - GitHub: github.com/rixz-dev
+
+5. **Zakrenz**
+   - Image: gambar/Zakrenz.png
+   - GitHub: github.com/Zakrenzdev
+   - TikTok: @zakrenzreal
+
+6. **Ditzzx**
+   - WhatsApp Channel: https://whatsapp.com/channel/0029Vb6GMVNGehERPKx21D20
+
+7. **Ramadhan Store**
+   - Image: tampilkan hasil ogt nya sebagai profil
+   - WhatsApp: https://wa.me/62895423189495
+*
+8. **Tenkz**
+   - channel: https://whatsapp.com/channel/0029VbC13UP1CYoODnULpp3E
+   - Image: gambar/tenk.png
+   - GitHub: github.com/Tenkxzz
+   - Instagram: instagram.com/main.pyc
+   
+9. Thxyz404
+  - image: gambar/thx.png
+  - channel: https://whatsapp.com/channel/0029Vb8CC8WKLaHqU9bbrN2Z
+  - tt: @thxyzz404
+  - tele: @Gunawan076w
+(pastikan setiap icon langsung menjadi link dan auto buka sosmed masing2)
+*sedikit revisi, konsepnya 3 card menampilkan profil dan nama saja dan jika di tekan muncul detail social media mereka sesuai yg sudah disebutkan di atas). popupnya jangan terlalu besar. konsep bottom jika cuma satu link maka memanjang sesuai ukuran card nya, jika ada 2 yaa gitu dst..
+
+### G. Community Hub
+Komunitas sebagai bagian dari ekosistem pembelajaran & eksplorasi.
+
+#### Communities
+1. **COMMUNITY**
+   - Icon: gambar/(ikon yg biasanya di komunitas wa bawaan)
+   - Link: https://chat.whatsapp.com/GJrFX9GSOJiBLyJmJNNixi
+   - Deskripsi: Belajar Coding & Bahas Anime
+
+2. **BELAJAR CODING&BAHAS ANIME**
+   - icon: gambar/coding.png
+   - Link: https://chat.whatsapp.com/Dfl4xKPiJoAH01YtWTlB97
+
+3. **Scrape Collection**
+   - Icon: gambar/Scrape.png
+   - Link: https://chat.whatsapp.com/BfxkoBVqORL2GIJ3SZh1Lk
+
+4. **Promosi**
+   - Icon: gambar/Promosi.png
+   - Link: https://chat.whatsapp.com/HxMqke18m0OBh8uQ8Hezth
+
+5. **Promosi v2**
+   - Icon: gambar/Promosiv2.png
+   - Link: https://chat.whatsapp.com/CKBpfDlQICEL6OoDyiHIj3
+
+6. **Bots Lab**
+   - Icon: gambar/Bots.png
+   - Status: Waiting Link
+
+#INGAT icon profil wajib ditampilkan jadi konsep nya seperti card profil khusus community bisa dibuat berbeda tidak apa
+   lalu di halaman "landasan filosofis" ganti semua kata katanya dgn dibawah
+   Saya tidak berusaha menguasai seluruh teknologi yang ada.
+Saya lebih tertarik memahami bagaimana teknologi saling terhubung, bagaimana sebuah ide dapat diwujudkan, dan bagaimana rasa penasaran bisa berubah menjadi sesuatu yang nyata.
+Bagi saya, setiap project bukan sekadar hasil akhir, melainkan bagian dari proses eksplorasi yang terus berjalan."
+
+### Assets Required
+- **Hero:** gambar/dev.png
+- **People Images:** 
+  - gambar/Shadow.png
+  - gambar/Hmmodz.png
+  - gambar/Reiz.png
+  - gambar/Zakrenz.png
+  - gambar/tenk.png
+  - gambar/Thx.png
+- **Community Icons:**
+  - gambar/Coding.png
+  - gambar/Scrape.png
+  - gambar/Promosi.png
+  - gambar/Promosiv2.png
+  - gambar/Bots.png
+  
+  assest icon svg
+  - v0: https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/vercel-v0-icon.png
+  - vercel: data:image/png;base64,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
+  - Devin: https://pixello.co.in/wp-content/uploads/2025/11/devin-ai-logo.webp
+  - codex: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8yncmEusmOXNqagDyLcVr-InUiP3tPphQZ23ntnMNQ&s=10
+  - google studio: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyw5a8alX1q3kxvsetQvhjfYxAFbrT2_1TdhhG-zZ6sQ&s=10
+  - github copilot: https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png
+  ChatGPT (OpenAI):
+https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png
+
+Claude (Anthropic):
+https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/anthropic-icon-wii9u8ifrjrd99btrqfgi.png/anthropic-icon-tdvkiqisswbrmtkiygb0ia.png?_a=DATAiZAAZAA0
+
+Gemini (Google):
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1280px-Google_Gemini_icon_2025.svg.png
+DeepSeek:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GcM2cT29bqcJU1_O_IPmQQJ5ZXexPGd5Kv0kioZzMg&s=10
+
+Kimi:
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfFO7L1gGJljIRoshBEr92dIfLRH22LqtE8A&s
+Qwen (阿里通义千问):
+https://img.alicdn.com/imgextra/i4/O1CN01ZJvdT71cRmc77GWnr_!!6000000003597-2-tps-96-96.png
+railway: https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/railway-infrastructure-platform-icon.png
+netlify: https://images.seeklogo.com/logo-png/47/3/netlify-icon-logo-png_seeklogo-477950.png
+lovable: https://lovable.dev/img/logo/lovable-logo-icon.svg
+reqable: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTqQDReO8nJyvLg33Ak-uzHz6lmkrV-jvoWqO_E9LjAA&s=10
+github: https://cdn-icons-png.flaticon.com/512/25/25231.png
+wa icon: https://img.magnific.com/premium-vector/vector-whatsapp-social-media-logo_1093524-447.jpg?semt=ais_hybrid&w=740&q=80
+tiktok : https://www.niftybuttons.com/assets/icons/tiktok-black-white-512.png
+Instagram: https://cdn-icons-png.flaticon.com/512/408/408809.png
+telegram: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUun23P0lFmA17FpPs5CwYrZfekvEladFibigrRFqnkQ&s=10
+email: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0wpPFCLog_XiZx7sUpcbtzJB_uSfxFVTZUZz44a1DwA&s=10
+
+##PERINGANTAN!!! 
+saya tidak yakin bahwa svg itu normal... karena yg saya ambil bisa saja ada yg di hapus background ada juga yg tidak, ada juga yg tidak sesuai. saya harap mencari nya . yg saya tau yg stabil hanya icon Gemini, codex, reqable. itu yg saya tau

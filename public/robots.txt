@@ -1,0 +1,8 @@
+# www.robotstxt.org/
+# Allowed all search engines to crawl and index the entire website
+
+User-agent: *
+Allow: /
+
+# Sitemap link
+# Sitemap: https://github.com/r_hmt

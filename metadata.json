@@ -1,0 +1,6 @@
+{
+  "name": "R_HMT Portfolio & AI Lab",
+  "description": "Interactive portfolio of R_HMT. Share code, AI technology updates, handy web tools, and personal AI lab chat companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

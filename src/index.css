@@ -1,0 +1,73 @@
+@import "tailwindcss";
+
+@keyframes orbit-clockwise {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes orbit-counter-clockwise {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+.animate-orbit-cw-slow {
+  animation: orbit-clockwise 40s linear infinite;
+}
+
+.animate-orbit-cw-slow-reverse {
+  animation: orbit-counter-clockwise 40s linear infinite;
+}
+
+.animate-orbit-ccw-medium {
+  animation: orbit-counter-clockwise 55s linear infinite;
+}
+
+.animate-orbit-ccw-medium-reverse {
+  animation: orbit-clockwise 55s linear infinite;
+}
+
+.animate-orbit-cw-very-slow {
+  animation: orbit-clockwise 75s linear infinite;
+}
+
+.animate-orbit-cw-very-slow-reverse {
+  animation: orbit-counter-clockwise 75s linear infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.animate-blink {
+  animation: blink 0.95s step-end infinite;
+}
+
+/* Custom Sleek WebKit Scrollbar for premium tech feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #020205;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #111b2b;
+  border-radius: 9999px;
+  border: 1px solid rgba(0, 242, 254, 0.1);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00f2fe;
+}
+
