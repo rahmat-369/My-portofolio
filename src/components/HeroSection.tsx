@@ -5,7 +5,7 @@ import { gsap } from "gsap";
 
 const roles = [
   "Technology Explorer",
-  "Share Code & AI Info",
+  "vibe coders",
   "Web Tools & Utilities Creator",
   "AI Collaborator & Experimenter",
   "Self-taught Tech Builder"
