@@ -105,8 +105,8 @@ export default async function handler(req, res) {
     const lastUserMessage = messages[messages.length - 1]?.text || messages[messages.length - 1]?.content || "";
     const promptText = `${SYSTEM_INSTRUCTION}\n\nUser: ${lastUserMessage}\nAssistant:`;
 
-    // Connect to Nexray Gemini Endpoint
-    const targetUrl = `https://api.nexray.eu.cc/ai/gemini?text=${encodeURIComponent(promptText)}`;
+    // Connect to Nexray Gemini Endpoint api.nexray
+    const targetUrl = `https://.nexray.eu.cc/ai/gemini?text=${encodeURIComponent(promptText)}`;
     const externalResponse = await fetch(targetUrl, {
       method: "GET",
       headers: {
