@@ -131,9 +131,13 @@ export default function AiSandbox() {
       if (!res.ok) throw new Error("Thinking engine encountered an error");
       const data = await res.json();
       
+      if (data.error) {
+        throw new Error(data.error);
+      }
+      
       setChatHistory(prev => [...prev, { role: "assistant", text: data.text || "Maaf, saya tidak dapat memberikan response saat ini." }]);
     } catch (err: any) {
-      setChatHistory(prev => [...prev, { role: "assistant", text: `Error: ${err.message || "Gagal menghubungi Gemini API"}` }]);
+      setChatHistory(prev => [...prev, { role: "assistant", text: "fitur ai nya dimatiin wok biar ga di spam 😹" }]);
     } finally {
       setIsChatLoading(false);
     }
